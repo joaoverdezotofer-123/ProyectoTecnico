@@ -1,0 +1,38 @@
+version: "3.9"
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    ports:
+      - "1433:1433" # Mapea el puerto del contenedor al host
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword! # Cambia esta contraseña
+    volumes:
+      - sql_data:/var/opt/mssql # Persistencia de los datos
+
+  backend:
+    build:
+      context: ./PruebaTecnica
+      dockerfile: Dockerfile
+    container_name: backend
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=PruebaTecnica;User=sa;Password=YourStrongPassword!
+    depends_on:
+      - sqlserver
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "4200:80"
+    depends_on:
+      - backend
+
+volumes:
+  sql_data:

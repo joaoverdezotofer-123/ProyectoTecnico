@@ -1,0 +1,24 @@
+<h2>Crear Persona</h2>
+<form [formGroup]="personaForm" (ngSubmit)="submit()">
+    <div>
+        <label>Nombres</label>
+        <input formControlName="nombres" type="text" />
+    </div>
+    <div>
+        <label>Apellidos</label>
+        <input formControlName="apellidos" type="text" />
+    </div>
+    <div>
+        <label>Número de Identificación</label>
+        <input formControlName="numeroIdentificacion" type="text" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input formControlName="email" type="email" />
+    </div>
+    <div>
+        <label>Tipo de Identificación</label>
+        <input formControlName="tipoIdentificacion" type="text" />
+    </div>
+    <button type="submit" [disabled]="!personaForm.valid">Crear</button>
+</form>

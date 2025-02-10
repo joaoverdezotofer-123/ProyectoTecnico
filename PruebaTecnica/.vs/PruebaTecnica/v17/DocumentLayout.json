@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\pruebatecnica.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\pruebatecnica.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\services\\personasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\personasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\joao_\\proyectotecnico\\pruebatecnica\\pruebatecnica\\repositories\\personasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DBE2-DB03-4EA3-96BE-09B095C25041}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\repositories\\personasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuariosService.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Services\\UsuariosService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\UsuariosService.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Services\\UsuariosService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\UsuariosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:26:05.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Services\\AuthService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:27:48.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Models\\Usuario.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:36:53.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonasService.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Services\\PersonasService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\PersonasService.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Services\\PersonasService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\PersonasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:24:38.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Repositories\\UsuariosRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Repositories\\UsuariosRepository.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Repositories\\UsuariosRepository.cs",
+              "RelativeToolTip": "PruebaTecnica\\Repositories\\UsuariosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:26:37.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "PruebaTecnica\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T01:11:56.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:23:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:25:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T23:58:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebaTecnica.http",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.http",
+              "RelativeDocumentMoniker": "PruebaTecnica\\PruebaTecnica.http",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.http",
+              "RelativeToolTip": "PruebaTecnica\\PruebaTecnica.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-08T01:38:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaTecnica\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:55:26.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Models\\Persona.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Persona.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:10:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:00:53.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\TestController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:34:29.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Dockerfile",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Dockerfile",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Dockerfile",
+              "RelativeToolTip": "PruebaTecnica\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-08T00:31:00.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PruebaTecnica\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T16:16:18.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "PruebaTecnica\\Helpers\\JwtHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:29:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\DTOs\\PersonaDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\DTOs\\PersonaDTO.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\DTOs\\PersonaDTO.cs",
+              "RelativeToolTip": "PruebaTecnica\\DTOs\\PersonaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:46:09.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:36:18.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:27:27.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Repositories\\PersonasRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Repositories\\PersonasRepository.cs",
+              "ToolTip": "C:\\Users\\joao_\\ProyectoTecnico\\PruebaTecnica\\PruebaTecnica\\Repositories\\PersonasRepository.cs",
+              "RelativeToolTip": "PruebaTecnica\\Repositories\\PersonasRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:25:14.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

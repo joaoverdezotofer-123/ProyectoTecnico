@@ -1,0 +1,44 @@
+@PruebaTecnica_HostAddress = http://localhost:32777
+
+
+GET {{PruebaTecnica_HostAddress}}/api/personas
+Accept: application/json
+
+### Crear una nueva persona
+POST {{PruebaTecnica_HostAddress}}/api/personas
+Content-Type: application/json
+
+{
+  "nombres": "John",
+  "apellidos": "Doe",
+  "numeroIdentificacion": "123456789",
+  "email": "john.doe@example.com",
+  "tipoIdentificacion": "CC"
+}
+
+### Registrar un nuevo usuario
+POST {{PruebaTecnica_HostAddress}}/api/usuarios/register
+Content-Type: application/json
+
+{
+  "usuario": "johndoe",
+  "pass": "password123"
+}
+
+### Iniciar sesión (login)
+POST {{PruebaTecnica_HostAddress}}/api/usuarios/login
+Content-Type: application/json
+
+{
+  "usuario": "johndoe",
+  "pass": "password123"
+}
+
+### Obtener el token JWT (usando AuthController)
+POST {{PruebaTecnica_HostAddress}}/api/auth/token
+Content-Type: application/json
+
+{
+  "usuario": "johndoe",
+  "pass": "password123"
+}
